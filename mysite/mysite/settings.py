@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-5q8w6+)11&k(b&4#fx57q&j2t%(1)2o*()8^nt5iw-^n&#f!#p
 DEBUG = True
 
 # ALLOWED_HOSTS = ["django-env11.eba-3hr3vpmg.us-west-2.elasticbeanstalk.com"]
-# ALLOWED_HOSTS = ["django-py3-11.eba-3hr3vpmg.us-west-2.elasticbeanstalk.com"] Sort of working
-ALLOWED_HOSTS = ["django-env5.eba-bahfsjbf.us-west-2.elasticbeanstalk.com"]
+ALLOWED_HOSTS = ["django-py3-11.eba-3hr3vpmg.us-west-2.elasticbeanstalk.com"] 
+# ALLOWED_HOSTS = ["django-env5.eba-bahfsjbf.us-west-2.elasticbeanstalk.com"]
 
 
 # Application definition
